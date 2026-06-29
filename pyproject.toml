@@ -7,7 +7,7 @@ name = "audiopy_ai"
 version = "0.1.6"
 description = "A generalised Python library for audio editing and effects with AI-powered analysis, inspired by OpenCV."
 authors = [
-    { name = "Adarsh Kotawar", email = "adarshkotawar@gmail.com" }
+    { name = "Lalit Mohane, Adarsh Kotawar, Swaraj Nalawade, Kaiwalya Joshi", email = "lalitmohane0275@gmail.com" }
 ]
 readme = "README.md"
 license = "MIT"
