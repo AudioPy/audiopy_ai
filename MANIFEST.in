@@ -1,0 +1,34 @@
+# Include documentation files
+include README.md
+include README_TESTING.md
+include LICENSE
+include SETUP.md
+include TESTING.md
+include TESTING_QUICK_START.md
+include TESTING_OPTIONS.md
+include AI_ANALYSIS_GUIDE.md
+include INDEX.md
+include READY_TO_TEST.md
+
+# Include configuration files
+include pyproject.toml
+include setup.py
+include setup.cfg
+
+# Include examples
+recursive-include examples *.py
+
+# Include tests
+recursive-include tests *.py
+
+# Include sample data
+recursive-include . *.json
+
+# Exclude unnecessary files
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store
+global-exclude .git*
+global-exclude .env
+global-exclude venv
+global-exclude .venv
