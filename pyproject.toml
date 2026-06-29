@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "audiopy_ai"
-version = "0.1.6"
+version = "0.1.7"
 description = "A generalised Python library for audio editing and effects with AI-powered analysis, inspired by OpenCV."
 authors = [
     { name = "Lalit Mohane, Adarsh Kotawar, Swaraj Nalawade, Kaiwalya Joshi", email = "lalitmohane0275@gmail.com" }

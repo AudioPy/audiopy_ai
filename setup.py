@@ -10,7 +10,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="audiopy_ai",
-    version="0.1.6",
+    version="0.1.7",
 
     author="Lalit Mohane, Adarsh Kotawar, Swaraj Nalawade, Kaiwalya Joshi",
     author_email="lalitmohane0275@gmail.com",
